@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "123",
+      "title": "Git 使用技巧",
+      "content": "main content —— Git 使用技巧"
+    },
+    {
+      "id": "234",
+      "title": "命令使用技巧",
+      "content": "main content —— React教程"
+    },
+    {
+      "id": "345",
+      "title": "React教程",
+      "content": "main content —— React教程"
+    }
+  ]
+}
